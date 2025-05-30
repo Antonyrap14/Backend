@@ -1,0 +1,8 @@
+•	Nodejs express  https://expressjs.com/
+•	Nodejs documentation  https://nodejs.org/docs/latest-v17.x/api/synopsis.html
+•	Nodejs mongodb  https://www.mongodb.com/docs/drivers/node/current/
+•	Nodejs package manager  https://www.npmjs.com/
+•	Vue doc, examples  https://vuejs.org/
+	vue init --> https://cli.vuejs.org/guide/creating-a-project.html
+•	Vuetify  https://vuetifyjs.com/en/getting-started/installation/
+•	Esempio app todo list con vuetify  https://codingbeautydev.com/blog/vuetify-to-do-list-app-task-list/
