@@ -19,6 +19,9 @@ Benvenuti! Questo repository contiene il materiale didattico relativo al modulo 
 - 💻 **file .gitignore**  
   Sempre nella cartella `progetto` trovate un esempio di file `.gitignore` da rinominare tegliendo la parola template e da includere nei file del vostro progetto in modo che non vengano caricate le dipendenze dei moduli installati.
 
+- 💻 **file DEVHUB_API.postman_collection**  
+  questa è la collection postMan che se volete potete importare nel vostro postman e che richiama già le api che dovrete creare/completare nel vostro progetto.
+
 ---
 
 Buon Lavoro! 🚀
