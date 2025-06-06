@@ -1,0 +1,5 @@
+•	Nodejs express  https://expressjs.com/
+•	Nodejs documentation  https://nodejs.org/docs/latest-v17.x/api/synopsis.html
+•	Nodejs mongodb  https://www.mongodb.com/docs/drivers/node/current/
+•	Nodejs package manager  https://www.npmjs.com/
+
