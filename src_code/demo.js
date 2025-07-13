@@ -3,8 +3,6 @@ let condizione = true
 const costante = 'ciao'
 var globale = ''
 
-//commento
-
 variabile = 'oooooo'
 
 // costante = 'ciao'
